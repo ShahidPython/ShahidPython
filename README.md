@@ -31,8 +31,8 @@
 
 ## 📫 Let's Connect
 
-- [📧 Email](mailto:shj4185669@gmail.com)
-- [🔗 LinkedIn – Shahid Hasan](https://www.linkedin.com/in/shahid-hassan-483a0627b/)
+- 📧 [shj4185669@gmail.com](mailto:shj4185669@gmail.com)
+- [🔗 LinkedIn – Shahid Hasan](https://www.linkedin.com/in/shahid-hasan-483a0627b/)
 - 🌐 [GitHub – ShahidPython](https://github.com/ShahidPython)
 
 ---
